@@ -22,7 +22,7 @@ Tenho paixão por **automatizar processos**, desenvolver soluções criativas e 
 
 ## 🌐 Onde me encontrar
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">  
+<div style="display: flex; gap: 15px; flex-wrap: wrap;  
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsena.dev@gmail.com)
 
