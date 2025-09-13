@@ -22,9 +22,8 @@ Tenho paixão por **automatizar processos**, desenvolver soluções criativas e 
 
 ## 🌐 Onde me encontrar
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiiichaves?igsh=cDR2Nm81bXJ6cnc3&utm_source=qr)    
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsena.dev@gmail.com)  
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-chaves-sena-941bb5248)  
 </div>
 
