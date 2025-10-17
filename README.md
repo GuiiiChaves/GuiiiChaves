@@ -32,15 +32,6 @@ Tenho paixão por **automatizar processos**, desenvolver soluções criativas e 
 
 </div>
 
-
----
-
-## 💻 Projetos Recentes
-
-- **RPA Python**: Automatizações e bots para processos repetitivos.  
-- **Front-end React**: Páginas web responsivas e interativas.  
-- **Back-end Node.js**: APIs e integrações com bancos de dados.  
-
 ---
 
 ## 📊 GitHub Stats
