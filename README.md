@@ -36,5 +36,3 @@ Tenho paixão por **automatizar processos**, desenvolver soluções criativas e 
 ![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiiiChaves&show_icons=true&theme=radical)
 
 ---
-
-Obrigado por visitar meu perfil! 🚀
