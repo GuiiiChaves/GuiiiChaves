@@ -34,6 +34,9 @@
 ## Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GuiiiChaves&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiiChaves&layout=compact&theme=default&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GuiiiChaves&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuiiiChaves&theme=default&hide_border=true&date_format=d%2Fm%5BY%5D&locale=pt_br"/>
 </p>
