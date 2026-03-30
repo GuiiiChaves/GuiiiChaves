@@ -36,7 +36,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GuiiiChaves&theme=default&hide_border=true&date_format=d%2Fm%5BY%5D&locale=pt_br"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GuiiiChaves&theme=default&hide_border=true&date_format=d%2Fm%5BY%5D&locale=pt_br"/>
-</p>
