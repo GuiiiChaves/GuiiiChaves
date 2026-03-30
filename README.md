@@ -1,38 +1,39 @@
-# 👋 Olá! Eu sou Guilherme Chaves Sena
+<h1 align="center">Guilherme Sena</h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente trabalho com **Python e RPA**.  
-Tenho paixão por **automatizar processos**, desenvolver soluções criativas e explorar tanto **front-end** quanto **back-end**.
+<p align="center">
+  Desenvolvedor Júnior · Automação & Integração de Sistemas · Full Stack Web
+</p>
 
-💡 Adoro aprender novas tecnologias e compartilhar conhecimento!
-
----
-
-## 🚀 Tecnologias que utilizo
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap;  
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsena.dev@gmail.com)
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-chaves-sena-941bb5248)
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guiiichaves?igsh=cDR2Nm81bXJ6cnc3&utm_source=qr)
-
-</div>
+<p align="center">
+  <a href="mailto:gsena.dev@gmail.com">
+    <img src="https://img.shields.io/badge/gsena.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/guilherme-chaves-sena-941bb5248">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/guiiichaves">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## O que eu faço
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiiiChaves&show_icons=true&theme=radical)
+| Área | Stack |
+|---|---|
+| 🤖 Automação & RPA | Python · Selenium · PyAutoGUI · Power Automate · n8n |
+| 🌐 Desenvolvimento Web | Next.js · React · FastAPI · TypeScript · Tailwind CSS |
+| 🔗 Integração de Sistemas | REST APIs · Microsoft Graph API · Web Scraping |
+| ☁️ Cloud & DevOps | GCP · Azure · Docker · Jenkins CI/CD |
+| 🔐 Segurança Web | Cloudflare WAF · SSL · WordPress Hardening |
+| 💬 Chatbots | Desenvolvimento de bots para atendimento e captura de leads |
 
 ---
+
+## Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GuiiiChaves&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiiChaves&layout=compact&theme=default&hide_border=true"/>
+</p>
